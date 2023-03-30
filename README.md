@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">In July of 2022 I decided to make a career switch, learn programming and become a software engineer. Fast-forward to mid-March of 2023, when I graduated from Hack Reactor Software Engineering Immersive and embarked on a new journey of expanding my technical knowledge and finding a job.  <br><br>🔭 I’m seeking job opportunities to start a new career as a software engineer<br>📚 I'm currently learning Typescript<br>⚡ In my free time I love spending time with my spouse and friends, watching TV shows, hiking and exploring amazing outdoor spaces around the Bay Area. <br><br>If you want to say hi, you can reach me at libacova.a@gmail.com. I’d be happy to connect :)</p>
+<p align="left">In July of 2022 I decided to make a career switch, learn programming and become a software engineer. Fast-forward to mid-March of 2023, when I graduated from Hack Reactor Software Engineering Immersive and embarked on a new journey of expanding my technical knowledge and finding a job.  <br><br>🔭 I’m seeking job opportunities to start a new career as a software engineer<br>📚 I'm currently learning Typescript, working on Non-Material wishlist, and building up my leetcode muscles<br>⚡ In my free time I love spending time with my spouse and friends, watching TV shows, hiking and exploring amazing outdoor spaces around the Bay Area. <br><br>If you want to say hi, you can reach me at libacova.a@gmail.com. I’d be happy to connect :)</p>
 
 ###
 
